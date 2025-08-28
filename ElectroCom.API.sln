@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectroCom.API", "ElectroCom.API.csproj", "{8E4E3ECA-2BDA-4A3A-8699-B02A6C9E7B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4E3ECA-2BDA-4A3A-8699-B02A6C9E7B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4E3ECA-2BDA-4A3A-8699-B02A6C9E7B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4E3ECA-2BDA-4A3A-8699-B02A6C9E7B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4E3ECA-2BDA-4A3A-8699-B02A6C9E7B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA93C32D-90A1-4745-AEC8-A3FFD3E45289}
+	EndGlobalSection
+EndGlobal
